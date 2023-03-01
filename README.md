@@ -1,5 +1,4 @@
 # opentToIntern
-# Plutonium
 
 ## Open to Intern Project Requirement
 
